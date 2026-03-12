@@ -9,10 +9,11 @@
 
 1. **[🎯 Bắt Đầu Nhanh](#bắt-đầu-nhanh)** - Quick start cho người mới
 2. **[📖 Tài Liệu Chi Tiết](#tài-liệu-chi-tiết)** - Hướng dẫn từng chủ đề
-3. **[💡 Ví Dụ Thực Tế](#ví-dụ-thực-tế)** - Code samples cho nhiều ngôn ngữ
-4. **[🛠️ Templates & Configs](#templates--configs)** - Mẫu sẵn dùng
-5. **[❓ FAQ & Troubleshooting](#faq--troubleshooting)** - Giải đáp thắc mắc
-6. **[🤝 Đóng Góp](#đóng-góp)** - Cách tham gia
+3. **[📚 Wiki & Reference](#wiki--reference)** - Glossary, Best Practices, Comparisons
+4. **[💡 Ví Dụ Thực Tế](#ví-dụ-thực-tế)** - Code samples cho nhiều ngôn ngữ
+5. **[🛠️ Templates & Configs](#templates--configs)** - Mẫu sẵn dùng
+6. **[❓ FAQ & Troubleshooting](#faq--troubleshooting)** - Giải đáp thắc mắc
+7. **[🤝 Đóng Góp](#đóng-góp)** - Cách tham gia
 
 ---
 
@@ -86,7 +87,15 @@ function isValidEmail(email) {
 
 ---
 
-## 💡 Ví Dụ Thực Tế
+## 📚 Wiki & Reference
+
+Tài liệu tham khảo, so sánh công cụ, best practices, và thủ thuật nâng cao:
+
+- **[wiki/Glossary.md](wiki/Glossary.md)** - Thuật ngữ & định nghĩa (20+ terms)
+- **[wiki/Best-Practices.md](wiki/Best-Practices.md)** - 12 best practices chi tiết với ví dụ
+- **[wiki/Tips-and-Tricks.md](wiki/Tips-and-Tricks.md)** - 16 pro tips & advanced patterns
+- **[wiki/Copilot-VS-Others.md](wiki/Copilot-VS-Others.md)** - So sánh với ChatGPT, Claude, Codeium
+- **[wiki/Resources.md](wiki/Resources.md)** - Tài nguyên & links (docs, tools, communities, books)
 
 ### 📁 Ví Dụ Theo Ngôn Ngữ
 
@@ -180,6 +189,8 @@ templates/
 ```
 wiki/
 ├── Glossary.md                    # Thuật ngữ & định nghĩa
+├── Best-Practices.md              # 12 best practices chi tiết
+├── Tips-and-Tricks.md             # 16 advanced tips & pro patterns
 ├── Copilot-VS-Others.md           # So sánh Copilot vs competitors
 └── Resources.md                   # Tài nguyên & links hữu ích
 ```
