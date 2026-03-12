@@ -89,15 +89,18 @@ function isValidEmail(email) {
 
 ## 📚 Wiki & Reference
 
-Tài liệu tham khảo, so sánh công cụ, best practices, và thủ thuật nâng cao:
+Tài liệu tham khảo toàn diện, best practices, so sánh công cụ, và thủ thuật nâng cao trong **[GitHub Wiki](https://github.com/minhtuancn/copilot-help/wiki)**:
 
-- **[wiki/Glossary.md](wiki/Glossary.md)** - Thuật ngữ & định nghĩa (20+ terms)
-- **[wiki/Best-Practices.md](wiki/Best-Practices.md)** - 12 best practices chi tiết với ví dụ
-- **[wiki/Tips-and-Tricks.md](wiki/Tips-and-Tricks.md)** - 16 pro tips & advanced patterns
-- **[wiki/Copilot-VS-Others.md](wiki/Copilot-VS-Others.md)** - So sánh với ChatGPT, Claude, Codeium
-- **[wiki/Resources.md](wiki/Resources.md)** - Tài nguyên & links (docs, tools, communities, books)
+- **[Wiki Home](https://github.com/minhtuancn/copilot-help/wiki)** - Navigation & overview
+- **[Glossary](https://github.com/minhtuancn/copilot-help/wiki/Glossary)** - 20+ thuật ngữ & định nghĩa
+- **[Best Practices](https://github.com/minhtuancn/copilot-help/wiki/Best-Practices)** - 12 core practices chi tiết với ví dụ
+- **[Tips & Tricks](https://github.com/minhtuancn/copilot-help/wiki/Tips-and-Tricks)** - 16 pro tips & advanced patterns
+- **[Copilot vs Others](https://github.com/minhtuancn/copilot-help/wiki/Copilot-vs-Others)** - So sánh với ChatGPT, Claude, Codeium
+- **[Resources](https://github.com/minhtuancn/copilot-help/wiki/Resources)** - 100+ links & learning paths
 
-### 📁 Ví Dụ Theo Ngôn Ngữ
+---
+
+## 💡 Ví Dụ Thực Tế
 
 - **[examples/javascript/](examples/javascript/)** - Node.js, React, Vue
 - **[examples/python/](examples/python/)** - FastAPI, Django, Data Science
@@ -145,7 +148,7 @@ cp templates/copilot-instructions-template.md your-repo/.github/copilot-instruct
 👉 Xem [03-skills-techniques.md - Prompt Engineering](docs/03-skills-techniques.md)
 
 ### Copilot vs Competitors?
-👉 Xem [wiki/Copilot-VS-Others.md](wiki/Copilot-VS-Others.md)
+👉 Xem [Copilot vs Others - GitHub Wiki](https://github.com/minhtuancn/copilot-help/wiki/Copilot-vs-Others)
 
 👉 **Xem tất cả Q&A:** [docs/08-faq.md](docs/08-faq.md)
 
@@ -185,14 +188,16 @@ templates/
 └── prompt-templates.md
 ```
 
-### Wiki (wiki/)
+### Wiki (GitHub Wiki Pages)
 ```
-wiki/
-├── Glossary.md                    # Thuật ngữ & định nghĩa
-├── Best-Practices.md              # 12 best practices chi tiết
-├── Tips-and-Tricks.md             # 16 advanced tips & pro patterns
-├── Copilot-VS-Others.md           # So sánh Copilot vs competitors
-└── Resources.md                   # Tài nguyên & links hữu ích
+https://github.com/minhtuancn/copilot-help/wiki/
+
+├── Home                            # Navigation & overview
+├── Glossary                        # 20+ thuật ngữ & định nghĩa
+├── Best-Practices                 # 12 core practices chi tiết
+├── Tips-and-Tricks                # 16 advanced tips & pro patterns
+├── Copilot-vs-Others              # So sánh Copilot vs competitors
+└── Resources                       # 100+ links & learning paths
 ```
 
 ---
